@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/daily.js": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

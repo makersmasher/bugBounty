@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "df2a2d5a3a5a49d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f6525f26a62fa3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c5830bbf54cd4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ba0203ca45375c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f39e2770d1b767",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74223df0850127c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2827a5ca5def3270",
+    "type": "split",
+    "children": [
+      {
+        "id": "de71eab5acbedb85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1389b0315cc0da8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "47f6525f26a62fa3",
+  "lastOpenFiles": [
+    "journal/2021.11.15.md",
+    "goals/Bug Hunter Methodology Notes.md",
+    "goals/Bug Bounty.md",
+    "journal/2021.11.09.md",
+    "journal/On Action.md",
+    "fitnessPlan.md",
+    "funHobbies.md",
+    "goalTimeline/Hacking.md",
+    "goalTimeline/HomeAndLiving.md",
+    "goalTimeline/Love.md"
+  ]
+}
